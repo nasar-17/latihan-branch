@@ -1,2 +1,2 @@
 # latihan-branch
-latihan buat branch development
+latihan buat branch main
